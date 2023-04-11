@@ -44,28 +44,28 @@ import {
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
   {
-    name: "新手教程（主站）",
-    link: "https://www.wgybook.com/zdtz.html",
+    name: "新手教程（主）",
+    link: "https://www.wgybook.com/",
   },
   {
-    name: "新手教程（备用）",
-    link: "https://www.wgybook.net/zdtz.html",
-  },
-  {
-    name: "新手教程（暂无）",
-    link: "#",
+    name: "新手教程（备）",
+    link: "https://www.wgybook.net/",
   },
   {
     name: "萌喵影视",
     link: "https://www.monmiao.com/",
   },
   {
-    name: "ChatGPT",
-    link: "https://www.wgyai.com/",
+    name: "登录网站（主）",
+    link: "https://wgy5.xyz/user",
   },
   {
-    name: "AppleID获取",
-    link: "https://appleid.wgybook.net/",
+    name: "登录网站（备）",
+    link: "https://wgy5.xyz/user",
+  },
+  {
+    name: "ChatGPT",
+    link: "https://www.wgyai.com/",
   },
 ];
 
