@@ -44,22 +44,27 @@ import {
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
   {
+    icon: "/images/icon/telegram.png",
     name: "登录网站",
     link: "https://www.wgybook.com/zdtz.html",
   },
   {
+    icon: "/images/icon/telegram.png",
     name: "登录网站",
     link: "https://www.wgybook.com/",
   },
   {
+    icon: "/images/icon/telegram.png",
     name: "登录网站",
     link: "https://music.imsyy.top/",
   },
   {
+    icon: "/images/icon/telegram.png",
     name: "萌喵影视",
     link: "https://www.monmiao.com/",
   },
   {
+    icon: "/images/icon/telegram.png",
     name: "ChatGPT",
     link: "https://www.wgyai.com/",
   },
