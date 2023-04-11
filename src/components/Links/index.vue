@@ -17,9 +17,9 @@
           class="item cards"
           :style="index < 3 ? 'margin-bottom: 20px' : null"
         >
-          <Icon size="26">
+          <!--<Icon size="26">
             <component :is="item.icon" />
-          </Icon>
+          </Icon>-->
           <span class="name">{{ item.name }}</span>
         </div>
       </el-col>
