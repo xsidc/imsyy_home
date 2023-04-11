@@ -44,16 +44,17 @@ import {
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
   {
-    icon: Blog,
+    icon: Book,
     name: "登录网站",
     link: "https://www.wgybook.com/zdtz.html",
   },
   {
-    icon: Cloud,
+    icon: Book,
     name: "登录网站",
     link: "https://www.wgybook.com/",
   },
   {
+    icon: Book,
     name: "登录网站",
     link: "https://music.imsyy.top/",
   },
