@@ -25,7 +25,7 @@ let bgUrl = ref(null); // 壁纸链接
 const changeBg = (type) => {
   if (type == 0) {
     bgUrl.value = `/images/background${Math.floor(
-      Math.random() * 10 + 1
+      Math.random() * 3 + 1
     )}.webp`;
   } else if (type == 1) {
     bgUrl.value = "https://api.dujin.org/bing/1920.php";
