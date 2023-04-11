@@ -44,28 +44,24 @@ import {
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
   {
-    name: "登录微观云",
+    name: "登录网站",
     link: "https://www.wgybook.com/zdtz.html",
   },
   {
-    name: "教程",
+    name: "登录网站",
     link: "https://www.wgybook.com/",
   },
   {
-    name: "萌喵影视",
+    name: "登录网站",
     link: "https://music.imsyy.top/",
+  },
+  {
+    name: "萌喵影视",
+    link: "https://www.monmiao.com/",
   },
   {
     name: "ChatGPT",
     link: "https://www.wgyai.com/",
-  },
-  {
-    name: "网址集",
-    link: "https://web.imsyy.top/",
-  },
-  {
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
   },
 ];
 
