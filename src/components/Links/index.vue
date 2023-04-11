@@ -49,7 +49,7 @@ let linksData = [
     link: "https://www.wgybook.com/zdtz.html",
   },
   {
-    icon: "/images/icon/telegram.png",
+    icon: Cloud,
     name: "登录网站",
     link: "https://www.wgybook.com/",
   },
