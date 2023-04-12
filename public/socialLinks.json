@@ -9,6 +9,26 @@
     "tip": "脸书",
     "url": "https://www.facebook.com"
 }, {
+    "name": "Twitter",
+    "icon": "/images/icon/twitter.png",
+    "tip": "推特",
+    "url": "https://www.twitter.com"
+}, {
+    "name": "Instagram",
+    "icon": "/images/icon/instagram.png",
+    "tip": "IG",
+    "url": "https://www.instagram.com"
+}, {
+    "name": "TikTok",
+    "icon": "/images/icon/tiktok.png",
+    "tip": "抖音",
+    "url": "https://www.tiktok.com"
+}, {
+    "name": "pixiv",
+    "icon": "/images/icon/twitter.png",
+    "tip": "P站",
+    "url": "https://www.pixiv.net/"
+}, {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "加入群组",
