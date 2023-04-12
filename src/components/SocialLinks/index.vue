@@ -1,6 +1,5 @@
 <template>
   <!-- 社交链接 -->
-  <!--
   <div class="social">
     <div class="link">
       <a
@@ -9,13 +8,13 @@
         :href="item.url"
         target="_blank"
         @mouseenter="socialTip = item.tip"
-        @mouseleave="socialTip = '通过这里联系我吧'"
+        @mouseleave="socialTip = '常用网站'"
       >
         <img class="icon" :src="item.icon" height="24" />
       </a>
     </div>
     <span class="tip">{{ socialTip }}</span>
-  </div>-->
+  </div>
 </template>
 
 <script setup>
@@ -25,7 +24,7 @@ import { Error } from "@icon-park/vue-next";
 
 // 社交链接数据
 let socialLinksData = ref([]);
-let socialTip = ref("通过这里联系我吧");
+let socialTip = ref("常用网站");
 
 // 获取社交链接数据
 const getSocialLinksData = () => {
