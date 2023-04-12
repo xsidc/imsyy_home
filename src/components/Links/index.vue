@@ -108,7 +108,7 @@ const jumpLink = (url) => {
       }
       .name {
         font-size: 1.1rem;
-        margin-left: 8px;
+
       }
       @media (min-width: 720px) and (max-width: 820px) {
         .name {
