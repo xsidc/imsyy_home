@@ -1,4 +1,14 @@
 [{
+    "name": "Google",
+    "icon": "/images/icon/google.png",
+    "tip": "谷歌搜索",
+    "url": "https://www.google.com"
+}, {
+    "name": "FaceBook",
+    "icon": "/images/icon/facebook.png",
+    "tip": "脸书",
+    "url": "https://www.facebook.com"
+}, {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "加入群组",
