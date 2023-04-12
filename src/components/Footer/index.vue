@@ -38,7 +38,7 @@ footer {
   height: 46px;
   line-height: 46px;
   text-align: center;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(2px);
   background: rgb(0 0 0 / 25%);
   z-index: 0;
   animation: fade;
