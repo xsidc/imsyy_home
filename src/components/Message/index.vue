@@ -6,7 +6,7 @@
       <img class="logo-img" :src="siteLogo" alt="logo" />
       <div class="name text-hidden">
         <span class="bg">{{ siteUrl[0] }}</span>
-        <span class="sm">.{{ siteUrl[1] }}</span>
+        <!--<span class="sm">.{{ siteUrl[1] }}</span>-->
       </div>
     </div>
     <!-- 简介 -->
