@@ -1,3 +1,4 @@
+<!--
 <template>
   <!-- 社交链接 -->
   <div class="social">
@@ -16,7 +17,7 @@
     <span class="tip">{{ socialTip }}</span>
   </div>
 </template>
-
+-->
 <script setup>
 import { ref, onMounted } from "vue";
 import { getSocialLinks } from "@/api";
