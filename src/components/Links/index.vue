@@ -44,11 +44,11 @@ import {
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
   {
-    name: "新手教程（主）",
+    name: "新手教程",
     link: "https://www.wgybook.com/",
   },
   {
-    name: "新手教程（备）",
+    name: "新手教程",
     link: "https://www.wgybook.net/",
   },
   {
@@ -56,11 +56,11 @@ let linksData = [
     link: "https://www.monmiao.com/",
   },
   {
-    name: "登录网站（主）",
+    name: "登录网站",
     link: "https://wgy5.xyz/user",
   },
   {
-    name: "登录网站（备）",
+    name: "登录网站",
     link: "https://wgy5.xyz/user",
   },
   {
