@@ -278,7 +278,7 @@ watch(
   width: 100%;
   height: 100%;
   background-color: #00000080;
-  backdrop-filter: blur(20px);
+  backdrop-filter: blur(10px);
   z-index: 1;
   .list {
     position: absolute;
