@@ -172,7 +172,7 @@ main {
     width: 56px;
     height: 34px;
     background: rgb(0 0 0 / 20%);
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(10px);
     border-radius: 6px;
     transition: all 0.3s;
     animation: fade;
