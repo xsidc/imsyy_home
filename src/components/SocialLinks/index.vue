@@ -1,6 +1,6 @@
-<!--
 <template>
   <!-- 社交链接 -->
+  <!--
   <div class="social">
     <div class="link">
       <a
@@ -15,9 +15,9 @@
       </a>
     </div>
     <span class="tip">{{ socialTip }}</span>
-  </div>
+  </div>-->
 </template>
--->
+
 <script setup>
 import { ref, onMounted } from "vue";
 import { getSocialLinks } from "@/api";
