@@ -16,7 +16,7 @@
 }, {
     "name": "Instagram",
     "icon": "/images/icon/instagram.png",
-    "tip": "IG",
+    "tip": "iG",
     "url": "https://www.instagram.com"
 }, {
     "name": "TikTok",
@@ -31,11 +31,11 @@
 }, {
     "name": "Github",
     "icon": "/images/icon/github.png",
-    "tip": "P站",
+    "tip": "Github",
     "url": "https://www.github.com/"
 }, {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "加入群组",
+    "tip": "联系我们",
     "url": "https://t.me/wgy_shouhou"
 }]
