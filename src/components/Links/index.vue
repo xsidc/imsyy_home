@@ -4,7 +4,7 @@
       <Icon size="20">
         <Link />
       </Icon>
-      <span class="title">网站列表</span>
+      <span class="title">旗下网站</span>
     </div>
     <el-row class="link-all" :gutter="20">
       <el-col
