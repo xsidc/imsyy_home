@@ -57,7 +57,7 @@ let linksData = [
   },
   {
     name: "登录网站",
-    link: "https://wgy5.xyz/user",
+    link: "https://user1.xn--yfrz5r03x5gq.net/user",
   },
   {
     name: "登录网站",
