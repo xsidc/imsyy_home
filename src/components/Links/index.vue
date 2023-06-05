@@ -61,7 +61,7 @@ let linksData = [
   },
   {
     name: "登录网站",
-    link: "https://user1.wgy1.xyz/user",
+    link: "https://user1.wgy5.xyz/user",
   },
   {
     name: "ChatGPT",
