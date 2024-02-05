@@ -57,11 +57,11 @@ let linksData = [
   },
   {
     name: "登录网站",
-    link: "https://user1.xn--yfrz5r03x5gq.net/user",
+    link: "https://user2.wgy5.xyz/user",
   },
   {
     name: "登录网站",
-    link: "https://user1.wgy5.xyz/user",
+    link: "https://user3.wgy5.xyz/user",
   },
   {
     name: "ChatGPT",
